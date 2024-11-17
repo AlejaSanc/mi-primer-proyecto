@@ -1,3 +1,3 @@
 # primer acrchivo de python
 
-print("primer archivo de pythin en GIHUB"
+print("primer archivo de pythin en GIHUB")
